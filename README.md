@@ -10,10 +10,8 @@ To develop a Recurrent Neural Network (RNN) model for predicting stock prices us
 ### Train dataset
 <img width="882" height="843" alt="Screenshot 2026-03-09 092537 TRAIN DATA 5" src="https://github.com/user-attachments/assets/fc43b42b-4e61-4692-9f1b-315e2b51ec43" />
 
-### Test dataset 
 
 
-![Uploading Screenshot 2026-03-09 092449 TEST DATA.png…]()
 
 
 
